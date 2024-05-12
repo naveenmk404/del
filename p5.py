@@ -31,7 +31,7 @@ print('Test score:', score)
 print('Test accuracy:', acc)
 
 text_example = "This movie was fantastic! I loved every moment of it."
-text_example = "I didn't find that movie enjoyable at all. Every moment seemed lacking, and it just didn't live up to my expectations."
+# text_example = "I didn't find that movie enjoyable at all. Every moment seemed lacking, and it just didn't live up to my expectations."
 
 # Tokenize the text
 tokenizer = Tokenizer(num_words=max_features)
